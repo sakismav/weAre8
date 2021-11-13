@@ -1,26 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useEffect, useState} from 'react';
 import './App.css';
+import communityTiles from "./communitytiles.json"
+import feedSponsorships from "./feedsponsorships.json"
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [list, setList] = useState([]);
+
+    const createList=()=>{
+        return list.map((item,i)=>{
+            if(item.categoryType==="community"){
+                return <a key={item.id} href={item.url}>
+                    <img  alt={item.mediaImageUri} src={item.mediaImageUri} className={"item__image"}/>
+                </a>
+            }else{
+                return <img key={item.sponsorshipId} alt={item.coverTileUri} src={item.coverTileUri} className={"item__image"}/>
+            }
+        });
+    };
+
+    useEffect(() => {
+        setList([...communityTiles,...feedSponsorships])
+    }, []);
+
+    return (
+        <div className="container">
+            {createList()}
+        </div>
+    );
 }
 
 export default App;

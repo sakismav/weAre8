@@ -1,0 +1,266 @@
+[
+  {
+    "campaignId": "f21ab1bf-acbb-4490-8835-4c18fd5d5448",
+    "sponsorshipId": "8c0d52df-95b8-46df-9ed8-7f5ffa5a2d98",
+    "sponsorshipSetId": "fe272854-70e2-4aa2-a9d3-e34af65db84d",
+    "weight": 0,
+    "brandName": "Generation Good",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiZjIxYWIxYmYtYWNiYi00NDkwLTg4MzUtNGMxOGZkNWQ1NDQ4LWJyYW5kLWxvZ28tMjAyMDAxMDhHZW5lcmF0aW9uR29vZDMzMDQ3d2VhcmU4L3dhdGNoX2FuZF9yZXNwb25kLzIwMTkwMTA4X2dlbmVyYXRpb25nb29kL2xvZ28ucG5nIn0=",
+    "brandInfo": "We see so many people who are caring, mindful, and committed to leaving the world a better place than they found it. That shared spirit is Generation Good.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiZjIxYWIxYmYtYWNiYi00NDkwLTg4MzUtNGMxOGZkNWQ1NDQ4LThjMGQ1MmRmLTk1YjgtNDZkZi05ZWQ4LTdmNWZmYTVhMmQ5OC1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZEdlbmVyYXRpb25Hb29kMjAxMDYyMDIwMDEwOHdlYXJlOC93YXRjaF9hbmRfcmVzcG9uZC8yMDE5MDEwOF9nZW5lcmF0aW9uZ29vZC90aWxlLnBuZyJ9",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/f21ab1bfacbb449088354c18fd5d54488c0d52df95b846df9ed87f5ffa5a2d98wrvideoGenerationGood445120200108weare8watchandrespond20190108generationgoodvideo.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/f21ab1bfacbb449088354c18fd5d54488c0d52df95b846df9ed87f5ffa5a2d98wrvideoGenerationGood445120200108weare8watchandrespond20190108generationgoodvideo.m3u8",
+    "brief": "Generation Good is for anyone who aspires to lead a more sustainable life, who recognize that even small acts create positive change in the world and pass those values down to their children. By sharing those acts, we want to elevate the idea of a generation of people, not bound by an age group, who will leave the planet a better place for generations to come. Gen X, Gen Y or Millennial, Generation Good is YOUR community.",
+    "cashIncentive": {
+      "amount": 0.25
+    },
+    "charityDonationIncentive": {
+      "amount": 0.05,
+      "charityId": "5eabc2ef-bc86-44c2-9f2a-f0ff70f441f8",
+      "charityName": "Sierra Club Foundation",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiNWVhYmMyZWYtYmM4Ni00NGMyLTlmMmEtZjBmZjcwZjQ0MWY4LWxvZ28tU2llcnJhQ2x1YkZvdW5kYXRpb24uanBnIn0="
+    },
+    "questionCount": 1,
+    "createdDate": "2020-01-08T15:41:40.2101328Z",
+    "createdTimestampEpochInMilliseconds": 1578498100210,
+    "updatedDate": "2020-01-08T16:37:37.0921432Z",
+    "updatedTimestampEpochInMilliseconds": 1578501457092
+  },
+  {
+    "campaignId": "95ef9a61-52a6-429c-b416-6e0e5ee52005",
+    "sponsorshipId": "0a1b8ba9-f665-4248-b651-49886712e4d7",
+    "sponsorshipSetId": "beb17fbd-e685-4c88-b514-9e90396c800c",
+    "weight": 0,
+    "brandName": "WeAre8",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOTVlZjlhNjEtNTJhNi00MjljLWI0MTYtNmUwZTVlZTUyMDA1LWJyYW5kLWxvZ28tMjAyMDAxMDJXZUFyZTgxMzc2MndhdGNoX2FuZF9yZXNwb25kLzIwMTkxMjMxX3dlYXJlOC9sb2dvLnBuZyJ9",
+    "brandInfo": "The People's Platform. Sponsorships for Everyone.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOTVlZjlhNjEtNTJhNi00MjljLWI0MTYtNmUwZTVlZTUyMDA1LTBhMWI4YmE5LWY2NjUtNDI0OC1iNjUxLTQ5ODg2NzEyZTRkNy1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZFdlQXJlODg2Mzk0MjAyMDAxMDJ3YXRjaF9hbmRfcmVzcG9uZC8yMDE5MTIzMV93ZWFyZTgvdGlsZS5qcGcifQ==",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/95ef9a6152a6429cb4166e0e5ee520050a1b8ba9f6654248b65149886712e4d7wrvideoWeAre8559120200102watchandrespond20191231weare8video.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/95ef9a6152a6429cb4166e0e5ee520050a1b8ba9f6654248b65149886712e4d7wrvideoWeAre8559120200102watchandrespond20191231weare8video.m3u8",
+    "brief": "Watch a brief video for WeAre8 and answer a few questions!",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "questionCount": 2,
+    "createdDate": "2020-01-02T22:00:28.4010267Z",
+    "createdTimestampEpochInMilliseconds": 1578002428401,
+    "updatedDate": "2020-01-02T22:03:22.3687282Z",
+    "updatedTimestampEpochInMilliseconds": 1578002602369
+  },
+  {
+    "campaignId": "98fc01a0-d78c-4729-8dbc-0430726efcf0",
+    "sponsorshipId": "f85cf29e-4638-4f28-9b3f-3cb302bfa182",
+    "sponsorshipSetId": "f4dd3ee5-4c94-43cb-807f-c141be656b82",
+    "weight": 0,
+    "brandName": "Adidas",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOThmYzAxYTAtZDc4Yy00NzI5LThkYmMtMDQzMDcyNmVmY2YwLWJyYW5kLWxvZ28tMjAxOTEyMDJBZGlkYXM5MTYzYWRpZGFzL2xvZ28ucG5nIn0=",
+    "brandInfo": "Sponsorships for everyone.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOThmYzAxYTAtZDc4Yy00NzI5LThkYmMtMDQzMDcyNmVmY2YwLWY4NWNmMjllLTQ2MzgtNGYyOC05YjNmLTNjYjMwMmJmYTE4Mi1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZEFkaWRhczI1NjMwMjAxOTEyMDJhZGlkYXMvdGlsZV8xMF8wMS5wbmcifQ==",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/98fc01a0d78c47298dbc0430726efcf0f85cf29e46384f289b3f3cb302bfa182wrvideoAdidas506920191202adidasvideo.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/98fc01a0d78c47298dbc0430726efcf0f85cf29e46384f289b3f3cb302bfa182wrvideoAdidas506920191202adidasvideo.m3u8",
+    "brief": "WeAre8 is sponsoring you to watch a video for Adidas and answer a few questions below. ",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "360952e3-aac8-43b6-999a-621d0e9626f9",
+      "charityName": "Wildlife Conservation Society",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiMzYwOTUyZTMtYWFjOC00M2I2LTk5OWEtNjIxZDBlOTYyNmY5LWxvZ28tV0NTLmpwZyJ9"
+    },
+    "questionCount": 3,
+    "createdDate": "2019-12-02T20:29:31.710786Z",
+    "createdTimestampEpochInMilliseconds": 1575318571711,
+    "updatedDate": "2019-12-16T17:15:07.641623Z",
+    "updatedTimestampEpochInMilliseconds": 1576516507642
+  },
+  {
+    "campaignId": "52177eb7-b084-4379-9dcc-f206ba7b5a54",
+    "sponsorshipId": "3b054d02-4116-423b-954f-5ef67b72e3af",
+    "sponsorshipSetId": "54a6fe21-c658-40b8-b0d8-41219d021088",
+    "weight": 0,
+    "brandName": "Jet Blue",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiNTIxNzdlYjctYjA4NC00Mzc5LTlkY2MtZjIwNmJhN2I1YTU0LWJyYW5kLWxvZ28tMjAxOTEyMDJKZXRCbHVlOTA2NWpldGJsdWUvbG9nby5wbmcifQ==",
+    "brandInfo": "Sponsorships for everyone.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiNTIxNzdlYjctYjA4NC00Mzc5LTlkY2MtZjIwNmJhN2I1YTU0LTNiMDU0ZDAyLTQxMTYtNDIzYi05NTRmLTVlZjY3YjcyZTNhZi1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZEpldEJsdWUzMzMyODIwMTkxMjAyamV0Ymx1ZS90aWxlXzEwXzAxLnBuZyJ9",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/52177eb7b08443799dccf206ba7b5a543b054d024116423b954f5ef67b72e3afwrvideoJetBlue901420191202jetbluevideo.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/52177eb7b08443799dccf206ba7b5a543b054d024116423b954f5ef67b72e3afwrvideoJetBlue901420191202jetbluevideo.m3u8",
+    "brief": "WeAre8 is sponsoring you to watch an ad for JetBlue and answer a few questions below.",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "360952e3-aac8-43b6-999a-621d0e9626f9",
+      "charityName": "Wildlife Conservation Society",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiMzYwOTUyZTMtYWFjOC00M2I2LTk5OWEtNjIxZDBlOTYyNmY5LWxvZ28tV0NTLmpwZyJ9"
+    },
+    "questionCount": 3,
+    "createdDate": "2019-12-02T18:29:23.578194Z",
+    "createdTimestampEpochInMilliseconds": 1575311363578,
+    "updatedDate": "2019-12-02T19:24:08.0801345Z",
+    "updatedTimestampEpochInMilliseconds": 1575314648080
+  },
+  {
+    "campaignId": "3b4b5550-b53d-4b1d-b367-1b65028a0afb",
+    "sponsorshipId": "7bd54a56-052c-418b-82a7-23772572bf3e",
+    "sponsorshipSetId": "82d7573e-5a63-4f46-a695-f80d1f197e05",
+    "weight": 0,
+    "brandName": "Birdseye",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiM2I0YjU1NTAtYjUzZC00YjFkLWIzNjctMWI2NTAyOGEwYWZiLWJyYW5kLWxvZ28tMjAxOTEyMDJCaXJkc2V5ZTI5Njk3YmlyZHNleWUvbG9nby5wbmcifQ==",
+    "brandInfo": "Sponsorships for everyone.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiM2I0YjU1NTAtYjUzZC00YjFkLWIzNjctMWI2NTAyOGEwYWZiLTdiZDU0YTU2LTA1MmMtNDE4Yi04MmE3LTIzNzcyNTcyYmYzZS1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZEJpcmRzZXllNTgyOTkyMDE5MTIwMmJpcmRzZXllL3RpbGVfMTBfMDEucG5nIn0=",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/3b4b5550b53d4b1db3671b65028a0afb7bd54a56052c418b82a723772572bf3ewrvideoBirdseye196920191202birdseyevideo.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/3b4b5550b53d4b1db3671b65028a0afb7bd54a56052c418b82a723772572bf3ewrvideoBirdseye196920191202birdseyevideo.m3u8",
+    "brief": "WeAre8 is sponsoring you to watch an ad for Bird's Eye and answer a few questions below.",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "360952e3-aac8-43b6-999a-621d0e9626f9",
+      "charityName": "Wildlife Conservation Society",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiMzYwOTUyZTMtYWFjOC00M2I2LTk5OWEtNjIxZDBlOTYyNmY5LWxvZ28tV0NTLmpwZyJ9"
+    },
+    "questionCount": 3,
+    "createdDate": "2019-12-02T17:09:07.0635141Z",
+    "createdTimestampEpochInMilliseconds": 1575306547064,
+    "updatedDate": "2019-12-02T19:25:46.57203Z",
+    "updatedTimestampEpochInMilliseconds": 1575314746572
+  },
+  {
+    "campaignId": "1b5cf69f-93bd-4bfb-8264-411d7cf55994",
+    "sponsorshipId": "7eb2c410-5c49-4ad6-b6cc-0f04e88c0c40",
+    "sponsorshipSetId": "f46b8b52-d76f-433b-92fa-13a1167dda34",
+    "weight": 0,
+    "brandName": "PenguinRandomHouse",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiMWI1Y2Y2OWYtOTNiZC00YmZiLTgyNjQtNDExZDdjZjU1OTk0LWJyYW5kLWxvZ28tMjAxOTExMjJQZW5ndWluUmFuZG9tSG91c2UzMjQ1cGVuZ3VpbnJhbmRvbWhvdXNlX2xvZ28ucG5nIn0=",
+    "brandInfo": "Passionately argued, superbly researched, and filled with indelible stories of real people, Quiet has the power to permanently change how we see introverts and, equally important, how they see themselves.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiMWI1Y2Y2OWYtOTNiZC00YmZiLTgyNjQtNDExZDdjZjU1OTk0LTdlYjJjNDEwLTVjNDktNGFkNi1iNmNjLTBmMDRlODhjMGM0MC1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZFBlbmd1aW5SYW5kb21Ib3VzZTM2NzIwMjAxOTExMjJwZW5ndWlucmFuZG9taG91c2VfcXVpZXQucG5nIn0=",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/1b5cf69f93bd4bfb8264411d7cf559947eb2c4105c494ad6b6cc0f04e88c0c40wrvideoPenguinRandomHouse379220191122penguinrandomhousequiet.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/1b5cf69f93bd4bfb8264411d7cf559947eb2c4105c494ad6b6cc0f04e88c0c40wrvideoPenguinRandomHouse379220191122penguinrandomhousequiet.m3u8",
+    "brief": "Watch a brief video for Penguin Random House and answer a few questions below.",
+    "cashIncentive": {
+      "amount": 0.25
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "f6b22155-9f64-499a-a586-3e10b3ef51c5",
+      "charityName": "TeachForAmerica",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiZjZiMjIxNTUtOWY2NC00OTlhLWE1ODYtM2UxMGIzZWY1MWM1LWxvZ28tdGVhY2hmb3JhbWVyaWNhX2xvZ28uanBnIn0="
+    },
+    "questionCount": 3,
+    "createdDate": "2019-11-22T15:32:22.8318344Z",
+    "createdTimestampEpochInMilliseconds": 1574436742832,
+    "updatedDate": "2019-11-26T18:43:30.6286047Z",
+    "updatedTimestampEpochInMilliseconds": 1574793810629
+  },
+  {
+    "campaignId": "62e796ce-d254-4d64-84d9-9d4c5e3864f9",
+    "sponsorshipId": "b19c6130-ba21-473d-be58-77116c75a54a",
+    "sponsorshipSetId": "c15e028f-94a4-489a-8426-fe42e3c34c3c",
+    "weight": 0,
+    "brandName": "Trumans",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiNjJlNzk2Y2UtZDI1NC00ZDY0LTg0ZDktOWQ0YzVlMzg2NGY5LWJyYW5kLWxvZ28tMjAxOTExMjF0cnVtYW5zMTI4MDB0cnVtYW5zX2xvZ28uanBnZmlsZXMvLmpwZyJ9",
+    "brandInfo": "Truman's reduces plastic waste while tackling dirt and grime. It's a win-win. Unless you hate Planet Earth and a clean home. Then it's a lose-lose.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiNjJlNzk2Y2UtZDI1NC00ZDY0LTg0ZDktOWQ0YzVlMzg2NGY5LWIxOWM2MTMwLWJhMjEtNDczZC1iZTU4LTc3MTE2Yzc1YTU0YS1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZHRydW1hbnMyMzkzMzIwMTkxMTIxLnBuZyJ9",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/62e796ced2544d6484d99d4c5e3864f9b19c6130ba21473dbe5877116c75a54awrvideotrumans911520191121.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/62e796ced2544d6484d99d4c5e3864f9b19c6130ba21473dbe5877116c75a54awrvideotrumans911520191121.m3u8",
+    "brief": "Watch a short video and answer a few questions below for Truman's eco-friendly cleaners.",
+    "cashIncentive": {
+      "amount": 0.25
+    },
+    "charityDonationIncentive": {
+      "amount": 0.05,
+      "charityId": "d569f741-5961-4eb4-98ce-a884a64ae6ba",
+      "charityName": "Water.org",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiZDU2OWY3NDEtNTk2MS00ZWI0LTk4Y2UtYTg4NGE2NGFlNmJhLWxvZ28td2F0ZXJvcmdfbG9nbzEuanBnIn0="
+    },
+    "questionCount": 4,
+    "createdDate": "2019-11-21T22:29:23.4583384Z",
+    "createdTimestampEpochInMilliseconds": 1574375363458,
+    "updatedDate": "2019-12-16T16:59:35.9525113Z",
+    "updatedTimestampEpochInMilliseconds": 1576515575953
+  },
+  {
+    "campaignId": "97f3c87d-0c88-4413-ad0c-e6d815d644b4",
+    "sponsorshipId": "5e029199-aedd-45c2-8597-a237b10035be",
+    "sponsorshipSetId": "0b4c2f20-c0e8-42d9-9340-8742993106bb",
+    "weight": 0,
+    "brandName": "Donum",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOTdmM2M4N2QtMGM4OC00NDEzLWFkMGMtZTZkODE1ZDY0NGI0LWJyYW5kLWxvZ28tMjAxOTExMTl3ZWFyZTgyMTE3M2RvbnVtX2xvZ28ucG5nZmlsZXMvLnBuZyJ9",
+    "brandInfo": "DONUM combines the highest level of design, quality, and fit to create men's shoes and accessories that captures individual style and swagger.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOTdmM2M4N2QtMGM4OC00NDEzLWFkMGMtZTZkODE1ZDY0NGI0LTVlMDI5MTk5LWFlZGQtNDVjMi04NTk3LWEyMzdiMTAwMzViZS1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZHRydW1hbnM5NzY1NTIwMTkxMTE5LnBuZyJ9",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/97f3c87d0c884413ad0ce6d815d644b45e029199aedd45c28597a237b10035bewrvideodonum658320191119.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/97f3c87d0c884413ad0ce6d815d644b45e029199aedd45c28597a237b10035bewrvideodonum658320191119.m3u8",
+    "brief": "Watch a short video and answer a few questions below for Donum Men's Shoes.",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "2d3b55b9-03cc-46c2-a99c-e62f783ebc6c",
+      "charityName": "Juan Felipe Gomez Escobar Foundation",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiMmQzYjU1YjktMDNjYy00NmMyLWE5OWMtZTYyZjc4M2ViYzZjLWxvZ28tSnVhbl9Mb2dvLnBuZyJ9"
+    },
+    "questionCount": 3,
+    "createdDate": "2019-11-19T22:23:01.7609975Z",
+    "createdTimestampEpochInMilliseconds": 1574202181761,
+    "updatedDate": "2019-12-16T17:03:04.8140712Z",
+    "updatedTimestampEpochInMilliseconds": 1576515784814
+  },
+  {
+    "campaignId": "c41f4911-7688-4780-ae8f-30a9a5341d51",
+    "sponsorshipId": "8809c250-152a-4975-9114-50c02474b671",
+    "sponsorshipSetId": "845a6a37-fd73-4670-afe3-ea6b4204f147",
+    "weight": 0,
+    "brandName": "WeAre8",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiYzQxZjQ5MTEtNzY4OC00NzgwLWFlOGYtMzBhOWE1MzQxZDUxLWJyYW5kLWxvZ28tMjAxOTExMTl3ZWFyZTgzNzM5NXdlYXJlOF9sb2dvLnBuZ2ZpbGVzLy5wbmcifQ==",
+    "brandInfo": "Sponsorships for everyone.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiYzQxZjQ5MTEtNzY4OC00NzgwLWFlOGYtMzBhOWE1MzQxZDUxLTg4MDljMjUwLTE1MmEtNDk3NS05MTE0LTUwYzAyNDc0YjY3MS1jb3Zlci10aWxlLXdhdGNoYW5kcmVzcG9uZHRydW1hbnM0MjMwNDIwMTkxMTE5LnBuZyJ9",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/c41f491176884780ae8f30a9a5341d518809c250152a4975911450c02474b671wrvideotrumans648620191119.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/c41f491176884780ae8f30a9a5341d518809c250152a4975911450c02474b671wrvideotrumans648620191119.m3u8",
+    "brief": "The world's easiest job? Watch & Respond sponsorships on WeAre8. \nWatch a video. Answer a few questions. Get paid.\nTap Accept to get started!",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "360952e3-aac8-43b6-999a-621d0e9626f9",
+      "charityName": "Wildlife Conservation Society",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiMzYwOTUyZTMtYWFjOC00M2I2LTk5OWEtNjIxZDBlOTYyNmY5LWxvZ28tV0NTLmpwZyJ9"
+    },
+    "questionCount": 2,
+    "createdDate": "2019-11-19T22:13:21.96006Z",
+    "createdTimestampEpochInMilliseconds": 1574201601960,
+    "updatedDate": "2019-11-21T23:09:32.3982515Z",
+    "updatedTimestampEpochInMilliseconds": 1574377772398
+  },
+  {
+    "campaignId": "8bf2c13d-cfed-4c3f-bdfd-be7d9f6adef4",
+    "sponsorshipId": "33703378-905b-4673-b6ad-15f57fa3bb04",
+    "sponsorshipSetId": "1f8693ca-258b-4639-b6e1-85ae944c0879",
+    "weight": 0,
+    "brandName": "Trumans",
+    "brandLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOGJmMmMxM2QtY2ZlZC00YzNmLWJkZmQtYmU3ZDlmNmFkZWY0LWJyYW5kLWxvZ28tMjAxOTExMTR0cnVtYW5zNjI5MnRydW1hbnNfbG9nby5qcGdmaWxlcy8uanBnIn0=",
+    "brandInfo": "Keep your home and conscious clean with Truman's.",
+    "coverTileUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC13YXRjaGFuZHJlc3BvbmQtY3JlYXRpdmUtaW1hZ2VzIiwia2V5IjoiOGJmMmMxM2QtY2ZlZC00YzNmLWJkZmQtYmU3ZDlmNmFkZWY0LTMzNzAzMzc4LTkwNWItNDY3My1iNmFkLTE1ZjU3ZmEzYmIwNC1jb3Zlci10aWxlLVJlbWVkZXlSZXZpZXd0cnVtYW5zODc4MDEyMDE5MTExNC5wbmcifQ==",
+    "videoUriDash": "https://v-prod.prod.aws.the8app.com/output/dash/8bf2c13dcfed4c3fbdfdbe7d9f6adef433703378905b4673b6ad15f57fa3bb04wrvideotrumans222820191114.mpd",
+    "videoUriHls": "https://v-prod.prod.aws.the8app.com/output/hls/8bf2c13dcfed4c3fbdfdbe7d9f6adef433703378905b4673b6ad15f57fa3bb04wrvideotrumans222820191114.m3u8",
+    "brief": "Watch a video for Truman's eco-friendly cleaners and answer a few questions below. ",
+    "cashIncentive": {
+      "amount": 0.1
+    },
+    "charityDonationIncentive": {
+      "amount": 0.01,
+      "charityId": "d569f741-5961-4eb4-98ce-a884a64ae6ba",
+      "charityName": "Water.org",
+      "charityLogoUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jaGFyaXR5LWxvZ29zIiwia2V5IjoiZDU2OWY3NDEtNTk2MS00ZWI0LTk4Y2UtYTg4NGE2NGFlNmJhLWxvZ28td2F0ZXJvcmdfbG9nbzEuanBnIn0="
+    },
+    "questionCount": 2,
+    "createdDate": "2019-11-14T20:15:15.4396708Z",
+    "createdTimestampEpochInMilliseconds": 1573762515440,
+    "updatedDate": "2019-11-15T17:36:50.2777199Z",
+    "updatedTimestampEpochInMilliseconds": 1573839410278
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "mediaImageUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jb21tdW5pdHktdGlsZS1pbWFnZXMiLCJrZXkiOiI1OGFhMzQzYy1kM2U1LTQ2ZjQtYWExZi0wOThhMjMxMWU1NTEtY29tbXVuaXR5LXRpbGUtaW1hZ2UtU3Rhc2hfdGlsZS5wbmcifQ==",
+    "createdDate": "2020-01-10T14:07:25.9536756Z",
+    "createdTimestampEpochInMilliseconds": 1578665245954,
+    "updatedDate": "2020-01-10T19:15:04.1804545Z",
+    "updatedTimestampEpochInMilliseconds": 1578683704180,
+    "id": "58aa343c-d3e5-46f4-aa1f-098a2311e551",
+    "name": "Stash",
+    "url": "https://www.weare8.com/stash/",
+    "categoryType": "community",
+    "weight": 0
+  },
+  {
+    "mediaImageUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jb21tdW5pdHktdGlsZS1pbWFnZXMiLCJrZXkiOiIzOWYyYjAyYS0yZGM3LTQxNWUtODEwYi0yY2JjZGE0NDEwMmYtY29tbXVuaXR5LXRpbGUtaW1hZ2Utc3Rhc2gydGlsZS5qcGcifQ==",
+    "createdDate": "2019-12-17T19:40:52.4930365Z",
+    "createdTimestampEpochInMilliseconds": 1576611652493,
+    "updatedDate": "2020-01-10T19:13:28.3019696Z",
+    "updatedTimestampEpochInMilliseconds": 1578683608302,
+    "id": "39f2b02a-2dc7-415e-810b-2cbcda44102f",
+    "name": "Stash",
+    "url": "https://www.weare8.com/weare8-stash/",
+    "categoryType": "community",
+    "weight": 0
+  },
+  {
+    "mediaImageUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jb21tdW5pdHktdGlsZS1pbWFnZXMiLCJrZXkiOiIyNDQ1NzU4Yi1lMjljLTRjM2MtOGY4OS01MDMzY2Q0NzYxYWEtY29tbXVuaXR5LXRpbGUtaW1hZ2UtcmVsYXlmb3JsaWZlXzI1LmpwZyJ9",
+    "createdDate": "2019-12-16T02:45:48.7932399Z",
+    "createdTimestampEpochInMilliseconds": 1576464348793,
+    "updatedDate": "2019-12-19T06:18:46.095636Z",
+    "updatedTimestampEpochInMilliseconds": 1576736326096,
+    "id": "2445758b-e29c-4c3c-8f89-5033cd4761aa",
+    "name": "relayforlife-survey-one",
+    "url": "https://business.weare8.com/survey/s-127/",
+    "categoryType": "community",
+    "weight": 0
+  },
+  {
+    "mediaImageUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jb21tdW5pdHktdGlsZS1pbWFnZXMiLCJrZXkiOiJjYzgxMTRiNS02N2U4LTRhZDEtOWI5YS03ZjhlOTQ1YjdhOGEtY29tbXVuaXR5LXRpbGUtaW1hZ2Uta25vd2hlcmVuZXdzXzIwNTcucG5nIn0=",
+    "createdDate": "2019-12-13T02:54:01.7938305Z",
+    "createdTimestampEpochInMilliseconds": 1576205641794,
+    "updatedDate": "2019-12-15T18:46:29.3564271Z",
+    "updatedTimestampEpochInMilliseconds": 1576435589356,
+    "id": "cc8114b5-67e8-4ad1-9b9a-7f8e945b7a8a",
+    "name": "knowhere news email subscription",
+    "url": "https://business.weare8.com/survey/knowhere-news-video-2/",
+    "categoryType": "community",
+    "weight": 0
+  },
+  {
+    "mediaImageUri": "https://i-prod.prod.aws.the8app.com/eyJidWNrZXQiOiJwcm9kLXdlYXJlOC1jb21tdW5pdHktdGlsZS1pbWFnZXMiLCJrZXkiOiI3MTRlZGFmNi1kYTU1LTRmODItYTM2MS03NGJjYWI4ZmU4NDktY29tbXVuaXR5LXRpbGUtaW1hZ2UtUmVmZXJBRnJpZW5kLnBuZyJ9",
+    "createdDate": "2019-12-09T19:04:37.7588378Z",
+    "createdTimestampEpochInMilliseconds": 1575918277759,
+    "updatedDate": "2019-12-09T19:14:03.2227362Z",
+    "updatedTimestampEpochInMilliseconds": 1575918843223,
+    "id": "714edaf6-da55-4f82-a361-74bcab8fe849",
+    "name": "Referral",
+    "url": "https://spotlight.weare8.com/moreoffers/referral",
+    "categoryType": "community",
+    "weight": -1
+  }
+]
